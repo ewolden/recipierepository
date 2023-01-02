@@ -1,6 +1,6 @@
 ---
 title: "Dinner"
-description: "Dinner recipies"
+description: "Dinner recipes"
 slug: "dinner"
 image: "dinner.jpg"
 style:

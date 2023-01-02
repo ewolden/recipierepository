@@ -2,12 +2,12 @@ baseurl: https://food.ehw.no
 languageCode: en-gb
 theme: hugo-theme-stack
 paginate: 5
-title: Recipie repository
+title: Recipe repository
 
 languages:
     en:
         languageName: English
-        title: Recipie repository
+        title: Recipe repository
         description: Example description
         weight: 1
 
@@ -46,7 +46,7 @@ params:
 
     sidebar:
         #emoji: 🍥
-        subtitle: Emily and Eivinds recipies
+        subtitle: Emily and Eivinds recipes
         avatar:
             enabled: true
             local: true

@@ -2,7 +2,7 @@
 author = "Eivind Halmøy Wolden"
 title = "Lasagna"
 date = "2023-01-02"
-description = "Lasagna recipie"
+description = "Lasagna recipe"
 tags = [
     "lasagna",
     "mealprep",
@@ -15,7 +15,7 @@ categories = [
 image = ""
 prepTime = "2 hours"
 cookTime = "3 hours"
-recipieYield = ""
+recipeYield = ""
 +++
 
 ## Tomato Sauce
