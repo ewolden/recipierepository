@@ -40,7 +40,7 @@ Peel and chop all vegetables
 Heat **4 tbsp olive oil** in a pan and add **vegetables** and **2 bay leaf**. Stir in the sugar with some salt. Cook for 10-15 mins until vegetables are tender.
 
 #### Step 3
-Stir in **4 cans of Chopped Tomatoes** and **150 ml water**. Let simmer gnelty for 30 mins or until sauce has reduced by two-thirds and is very thick. (Will take longer if the recipie quantity has been increased). Stir occasionally, especially towards the end.
+Stir in **4 cans of Chopped Tomatoes** and **150 ml water**. Let simmer gently for 30 mins or until sauce has reduced by two-thirds and is very thick. (Will take longer if the recipe quantity has been increased). Stir occasionally, especially towards the end.
 
 
 
@@ -60,10 +60,10 @@ Plain flour | 100g |
 Bring **1L milk** to the boil in a small saucepan with the **onion**, **2 bay leafs** and **3 cloves**. Turn off the heat and leave to infuse for 20 mins.
 
 #### Step 2
-Melt **100g butter** in another saucepan and add **100g plain flour**, stir continously until a you have a roux. Continue cooking for 2 mins.
+Melt **100g butter** in another saucepan and add **100g plain flour**, stir continuously until a you have a roux. Continue cooking for 2 mins.
 
 #### Step 3
-Remove onion, bay leaf and cloves from the milk and discard them. Add the infused milk to the roux gradually while stirring. Cook for 5-10 mins until the sauce has thickened, stirring continously. Seasons to taste.
+Remove onion, bay leaf and cloves from the milk and discard them. Add the infused milk to the roux gradually while stirring. Cook for 5-10 mins until the sauce has thickened, stirring continuously. Seasons to taste.
 
 ## Lasagna
 ### Ingredients for lasagna
