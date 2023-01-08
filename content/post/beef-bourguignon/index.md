@@ -40,7 +40,7 @@ ingredients = [
 Ingredient | Quantity | How
 ---|---|---
 Butter      | 1 tbsp        |
-Olive oil   | 2             | divided
+Olive oil   | 2 tbsp        | divided
 Steak       | 1 kg          | trimmed, cut into large chunks
 Bacon       | 150 g         | chunk
 Onion       | 2             | finley chopped
