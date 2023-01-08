@@ -12,8 +12,8 @@ categories = [
     "dinner"
 ]
 image = ""
-prepTime = "2 hours"
-cookTime = "3 hours"
+prepTime = "1 hours"
+cookTime = "2.5 hours"
 recipeYield = ""
 ingredients = [
     "Butter",
