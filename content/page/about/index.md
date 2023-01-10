@@ -1,6 +1,6 @@
 ---
 title: About
-description: Recipie repository for keeping track of recipies we like
+description: Recipe repository for keeping track of recipes we like
 date: '2023-01-02'
 aliases:
   - about-us
@@ -14,4 +14,4 @@ menu:
             icon: user
 ---
 
-This is Emily and Eivinds recipie repository for keeping track of recipies we like.
+This is Emily and Eivinds recipe repository for keeping track of recipes we like.
