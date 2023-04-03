@@ -16,6 +16,26 @@ image = ""
 prepTime = "2 hours"
 cookTime = "3 hours"
 recipeYield = ""
+ingredients = [
+    "750g beef mince",
+    "90g prosciutto",
+    "100g butter",
+    "125g mozzarella",
+    "100g plain flour",
+    "3 onions",
+    "2 carrots",
+    "2 celery sticks",
+    "2 garlic cloves",
+    "1 L whole milk",
+    "300g lasagna sheets",
+    "4 bay leafs",
+    "3 cloves",
+    "100ml beef stock",
+    "nutmeg",
+    "4 cans chopped tomatoes",
+    "olive oil",
+    "sugar",
+]
 +++
 
 ## Tomato Sauce
