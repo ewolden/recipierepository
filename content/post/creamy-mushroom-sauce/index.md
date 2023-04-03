@@ -5,7 +5,7 @@ date = "2023-04-03"
 description = "Creamy mushrooms as a side dish/sauce"
 tags = [
     "wild mushrooms",
-    "chanterelles"
+    "chanterelles",
     "side",
 ]
 categories = [
@@ -17,7 +17,7 @@ cookTime = "15 min"
 recipeYield = ""
 ingredients = [
     "Wild mushroom",
-    "Champignon"
+    "Champignon",
     "Onion",
     "Butter",
     "Cream",
