@@ -1,7 +1,7 @@
 +++
 author = "Eivind Halmøy Wolden"
 title = "French Silk Pie"
-date = "Todays date"
+date = "2023-09-05"
 description = "A rich and creamy French Silk Pie with an Oreo cookie crust, chocolate filling, and homemade whipped cream topping."
 tags = [
     "dessert",

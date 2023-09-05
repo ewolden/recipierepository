@@ -1,7 +1,7 @@
 +++
 author = "Eivind Halmøy Wolden"
 title = "Coffee Ice Cream Cake"
-date = "Todays date"
+date = "2023-09-05"
 description = "A decadent brownie base topped with coffee and vanilla ice cream, swirled with chocolate fudge."
 tags = [
     "dessert",

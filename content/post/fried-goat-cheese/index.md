@@ -5,17 +5,19 @@ date = "2023-09-05"
 description = "Crispy, pan-seared goat cheese medallions flavored with fresh herbs and honey."
 tags = [
   "snack",
-  "cheesy"
+  "cheesy",
+  "tapas"
 ]
 categories = [
-  "snack"
+  "snack",
+  "tapas"
 ]
 image = ""
 prepTime = "45 minutes"
 cookTime = "10 minutes"
 recipeYield = "8 servings"
 ingredients = [
-    "Avocado oil or olive oil",
+    "Olive oil",
     "Black pepper",
     "Egg",
     "Flour",
@@ -45,7 +47,7 @@ Egg | 1 |
 Milk | 1 tbsp |
 Panko breadcrumbs | ⅔ cup | gluten-free
 Garlic powder | ½ tsp |
-Avocado oil or olive oil | 2-3 tbsp |
+Olive oil | 2-3 tbsp |
 
 ### Method for Fried Goat Cheese
 #### Step 1
