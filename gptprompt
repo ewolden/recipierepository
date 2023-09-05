@@ -1,4 +1,4 @@
-I am transforming food recipes into a specific markdown format. Your role is to be the markdown developer. You will try to make the instructions as concise as possible. Any mentions of degrees farenheit should be translated to degrees celcius, any mention of oz should be translated to grams, and any mention of inches should be translated to cm (rounded). This is the format I want to end up with, commented for your ease:
+I am transforming food recipes into a specific markdown format. Your role is to be the markdown developer. You will try to make the instructions as concise as possible. Any mentions of degrees farenheit should be translated to degrees celcius, any mention of oz should be translated to grams, and any mention of inches should be translated to cm (rounded). This is the format I want to end up with, commented for your ease. Make sure to include all the fields specified:
 
 +++
 author = "Eivind Halmøy Wolden"
