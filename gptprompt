@@ -1,4 +1,4 @@
-I am transforming food recipes into a specific markdown format. Your role is to be the markdown developer. This is the format I want to end up with, commented for your ease:
+I am transforming food recipes into a specific markdown format. Your role is to be the markdown developer. You will try to make the instructions as concise as possible. Any mentions of degrees farenheit should be translated to degrees celcius. This is the format I want to end up with, commented for your ease:
 
 +++
 author = "Eivind Halmøy Wolden"
