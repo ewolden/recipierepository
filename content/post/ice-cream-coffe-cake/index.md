@@ -1,8 +1,17 @@
 +++
-author = "Maryanne Cabrera"
+author = "Eivind Halmøy Wolden"
 title = "Coffee Ice Cream Cake"
 date = "Todays date"
 description = "A decadent brownie base topped with coffee and vanilla ice cream, swirled with chocolate fudge."
+tags = [
+    "dessert",
+    "cake",
+    "ice-cream",
+    "slow"
+]
+categories = [
+    "dessert"
+]
 prepTime = "25 minutes"
 cookTime = "20 minutes"
 freezeTime = "4 hours"
