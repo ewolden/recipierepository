@@ -1,0 +1,53 @@
+I am transforming food recipes into a specific markdown format. Your role is to be the markdown developer. This is the format I want to end up with, commented for your ease:
+
++++
+author = "Eivind Halmøy Wolden"
+title = "Title"
+date = "Todays date"
+description = "One sentence description of the recipe"
+tags = [
+    leave this field blank
+]
+categories = [
+    leave this field blank
+]
+image = "leave this field blank"
+prepTime = "How long does the preparation of the ingredients take"
+cookTime = "How long is the cooking time"
+recipeYield = "How many portions does this recipe yield"
+ingredients = [ Ingredients listed alphabetically
+]
++++
+
+## Title
+### Ingredients for title
+Ingredient | Quantity | How
+---|---|---
+Ingredients listed by time they are used. Here are some examples:
+Wild mushrooms      | 300 g        | in chunks
+Champignon          | 200 g        | in chunks
+Onion               | 1            | finley chopped
+Butter              | 2 tbsp       | 
+Fresh thyme         | 1 sprig      | finley chopped
+Cream (12%)         | 1            | 
+Soy Sauce           | to taste     | 
+
+### Method for title
+#### Step 1
+List each step. Making sure to bold any ingredients and amounts in the step. Some examples:
+
+#### Step 2
+In a skillet, melt **2 tbsp butter** at high heat until lightly browned.
+
+#### Step 3
+Add **500 g mushrooms** to skillet and cook at high heat for 3 mins. Add finely chopped **onion**. Cook until golden.
+
+#### Step 4
+Add finely chopped **sprig of thyme** and **300 ml cream** and reduce heat to medium.
+
+#### Step 5
+Let boil for a few minutes until thickened. Add **soy sauce**, **salt**, and **pepper** to taste. 
+
+
+
+Now here is the input I would like translated, please highlight any parts you are unsure about by placing brackets {} around it:
