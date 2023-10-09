@@ -13,6 +13,8 @@ tags = [
     "seafood"
 ]
 categories = [
+    "dinner"
+
 ]
 image = ""
 prepTime = "20 mins"

@@ -7,7 +7,7 @@ tags = [
 ]
 categories = [
     "Baked Goods",
-    "European",
+    "Dessert",
     "Norwegian"
 ]
 image = ""
