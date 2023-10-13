@@ -1,7 +1,7 @@
 +++
 author = "Eivind Halmøy Wolden"
 title = "Instant Stovetop Naans"
-date = "2023-10-14"
+date = "2023-10-13"
 description = "An instant naan recipe delivering restaurant quality results."
 tags = [
     "naan",
