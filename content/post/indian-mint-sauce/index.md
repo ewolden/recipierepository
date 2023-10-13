@@ -1,7 +1,7 @@
 +++
 author = "Eivind Halmøy Wolden"
 title = "Mint Sauce"
-date = "2023-10-14"
+date = "2023-10-13"
 description = "A mint sauce recipe"
 tags = [
     "sauce",
