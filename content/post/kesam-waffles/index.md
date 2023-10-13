@@ -4,6 +4,9 @@ title = "Vanilla Waffles"
 date = "2023-10-09"
 description = "Delicious waffles with a hint of vanilla and curd."
 tags = [
+    "dessert",
+    "sweet",
+
 ]
 categories = [
     "Baked Goods",
