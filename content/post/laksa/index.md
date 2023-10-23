@@ -43,7 +43,7 @@ Prawns              | 10          | peeled
 Eggs                | 8           | whisked
 Light soy sauce     | 1 tsp       | 
 Lime                | 1/2         | cut into wedges
-Koriander           | to taste    | sprigs, as garnish
+Coriander           | to taste    | 
 Bean sprouts        | to taste    | washed
 Coconut milk        | 300 ml      |
 Tofu puffs          | to taste    |
@@ -66,16 +66,19 @@ Peel **10 prawns**.
 Whisk together **8 eggs** with **1 tsp light soy sauce**. Make large thin omelettes from the egg mixture.
 
 #### Step 6
-Remove **chicken legs** from the simmering pot and add **carrots** instead. Once the chicken legs are cool enough, debone and remove all unwanted bits.
+Remove **chicken legs** from the simmering pot. Once the chicken legs are cool enough, debone and remove all unwanted bits.
 
 #### Step 7
-Blanch **prawns** in the simmering pot, using a metal colander or similar. Remove and set aside.
+Add **carrots** to the soup.
 
 #### Step 8
-Add **300 ml coconut milk** and **tofu puffs** to the simmering pot until heated through. Ensure the tofu puffs are submerged.
+Blanch **prawns** in the simmering pot, using a metal colander or similar. Remove and set aside.
 
 #### Step 9
-Prepare **vermicelli noodles** according to package instructions.
+Add **300 ml coconut milk** and **tofu puffs** to the simmering pot until heated through. Ensure the tofu puffs are submerged.
 
 #### Step 10
-In a serving bowl, arrange **vermicelli**, **chicken**, **egg**, **prawns**, **carrots**, and **bean sprouts**. Spoon in soupy base to taste. Garnish with **lime wedges** and **koriander sprigs**.
+Prepare **vermicelli noodles** according to package instructions.
+
+#### Step 11
+In a serving bowl, arrange **vermicelli**, **chicken**, **egg**, **prawns**, **carrots**, and **bean sprouts**. Spoon in soupy base to taste. Add **coriander** to the top, squeez lime juice on top.
