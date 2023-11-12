@@ -13,7 +13,7 @@ categories = [
     "salad",
     "dinner"
 ]
-image = ""
+image = "chicken_quinoa_salad.jpg"
 prepTime = "20 min"
 cookTime = "30 min"
 recipeYield = "2 portions"

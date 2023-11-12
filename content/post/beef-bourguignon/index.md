@@ -11,7 +11,7 @@ tags = [
 categories = [
     "dinner"
 ]
-image = ""
+image = "beef_bourguignon.jpg"
 prepTime = "1 hours"
 cookTime = "2.5 hours"
 recipeYield = ""

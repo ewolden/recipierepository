@@ -12,7 +12,7 @@ tags = [
 categories = [
     "dinner"
 ]
-image = ""
+image = "cream_chicken.jpg"
 prepTime = "10 minutes"
 cookTime = "20 minutes"
 recipeYield = "4 servings"

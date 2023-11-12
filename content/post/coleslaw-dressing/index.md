@@ -13,7 +13,7 @@ tags = [
 categories = [
     "dressing"
 ]
-image = ""
+image = "coleslaw_dressing.jpg"
 prepTime = "5 mins"
 cookTime = "0 mins"
 chillTime = "Optional, up to 1 week"

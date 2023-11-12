@@ -12,7 +12,7 @@ tags = [
 categories = [
     "dinner"
 ]
-image = ""
+image = "creamy_stroganoff_pasta.jpg"
 prepTime = "10 minutes"
 cookTime = "30 minutes"
 recipeYield = "4-6 servings"

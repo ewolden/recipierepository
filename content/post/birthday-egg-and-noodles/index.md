@@ -14,7 +14,7 @@ categories = [
     "breakfast",
     "traditional"
 ]
-image = ""
+image = "birthday_egg.jpg"
 prepTime = "15 minutes"
 cookTime = "10 minutes"
 recipeYield = "2 servings"
