@@ -7,7 +7,7 @@ tags = [
     "mustard sauce", "festive", "sauce", "condiment"
 ]
 categories = [
-    "Sauces", "Condiments", "Festive"
+    "Sauces", "Condiments", "Festive", "Side"
 ]
 image = "mustard-sauce.jpg"
 prepTime = "5 minutes"
