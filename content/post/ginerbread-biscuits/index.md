@@ -1,5 +1,5 @@
 +++
-author = "Eivind Halmøy Wolden"
+author = "Emily Ho"
 title = "Gingerbread Biscuits"
 date = "2023-12-26"
 description = "Classic gingerbread biscuits, perfect for holiday baking and decorating."
