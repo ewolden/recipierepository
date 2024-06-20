@@ -2,7 +2,7 @@
 author = "Eivind Halmøy Wolden"
 title = "Banana Bread"
 date = "2024-06-20"
-description = "Delicious banana bread made with ripe bananas and melted butter."
+description = "Delicious banana bread made with ripe bananas and melted butter"
 tags = [
     "baking", "bread", "easy snack", "breakfast"
 ]
@@ -13,30 +13,40 @@ image = "banana-bread.jpg"
 prepTime = "10 mins"
 cookTime = "60 mins"
 recipeYield = "8 to 10 servings"
+ingredients = [
+    "All-purpose flour",
+    "Baking soda",
+    "Bananas, very ripe",
+    "Butter, unsalted or salted",
+    "Egg",
+    "Salt",
+    "Sugar",
+    "Vanilla extract"
+]
 +++
 
 ## Banana Bread
 ### Ingredients for Banana Bread
 Ingredient | Quantity | How
 ---|---|---
-All-purpose flour | 1 1/2 cups (205g) | 
-Baking soda | 1/2 tsp | 
 Bananas, very ripe | 2 to 3 medium | mashed (about 1 1/4 to 1 1/2 cups)
 Butter, unsalted or salted | 1/3 cup (76g) | melted
-Egg | 1 large | beaten
+Baking soda | 1/2 tsp | 
 Salt | 1 pinch | 
 Sugar | 3/4 cup (150g) | adjust to taste
+Egg | 1 large | beaten
 Vanilla extract | 1 tsp | 
+All-purpose flour | 1 1/2 cups (205g) | 
 
 ### Method for Banana Bread
 #### Step 1
 Preheat the oven to **175°C**. Butter an **8x20 cm** loaf pan.
 
 #### Step 2
-In a mixing bowl, mash the **bananas** with a fork until completely smooth. Stir in the **melted butter**.
+In a mixing bowl, mash the **2 to 3 medium bananas** with a fork until completely smooth. Stir in the **1/3 cup melted butter**.
 
 #### Step 3
-Mix in the **baking soda** and **salt**. Stir in the **sugar**, **beaten egg**, and **vanilla extract**. Mix in the **flour**.
+Mix in the **1/2 tsp baking soda** and **pinch of salt**. Stir in the **3/4 cup sugar**, **1 beaten egg**, and **1 tsp vanilla extract**. Mix in the **1 1/2 cups flour**.
 
 #### Step 4
 Pour the batter into your prepared loaf pan.
