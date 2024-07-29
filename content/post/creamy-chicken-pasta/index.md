@@ -10,8 +10,7 @@ tags = [
     "Italian"
 ]
 categories = [
-    "Dinner",
-    "Main Course"
+    "Dinner"
 ]
 image = "creamy-chicken-pasta.jpg"
 prepTime = "15 min"
