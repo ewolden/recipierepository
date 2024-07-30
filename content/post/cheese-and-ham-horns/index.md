@@ -7,7 +7,7 @@ tags = [
     "baking", "snacks", "cheese", "ham"
 ]
 categories = [
-    "Bakery", "Snacks"
+    "Baking", "Snacks", "Bread"
 ]
 image = "cheese-and-ham-horns.jpg"
 prepTime = "1 hour"

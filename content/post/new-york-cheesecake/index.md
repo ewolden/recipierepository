@@ -10,8 +10,8 @@ tags = [
     "American-style"
 ]
 categories = [
-    "Desserts",
-    "Baked Goods"
+    "Dessert",
+    "Baking"
 ]
 image = "new-york-cheesecake.jpg"
 prepTime = "20 mins"

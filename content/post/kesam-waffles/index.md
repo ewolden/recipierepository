@@ -9,7 +9,6 @@ tags = [
 
 ]
 categories = [
-    "Baked Goods",
     "Dessert",
     "Norwegian"
 ]

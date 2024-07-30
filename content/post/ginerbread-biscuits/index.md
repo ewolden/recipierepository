@@ -7,7 +7,7 @@ tags = [
     "gingerbread", "biscuits", "holiday baking", "desserts", "traditional"
 ]
 categories = [
-    "Desserts", "Baking"
+    "Dessert", "Baking"
 ]
 image = "gingerbread-biscuits.jpg"
 prepTime = "30 minutes"
