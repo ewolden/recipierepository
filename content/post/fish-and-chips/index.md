@@ -14,7 +14,7 @@ categories = [
     "Dinner",
     "Seafood"
 ]
-image = ""
+image = "fish-and-chips.jpg"
 prepTime = "25 mins"
 cookTime = "35 mins"
 restTime = "30 mins"
