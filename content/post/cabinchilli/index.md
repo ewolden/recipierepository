@@ -12,7 +12,7 @@ categories = [
 ]
 image = "image.jpg"
 prepTime = "15 mins"
-cookTime = "1 hr"
+cookTime = "30 mins"
 recipeYield = "4 servings"
 ingredients = [
     "beef",
