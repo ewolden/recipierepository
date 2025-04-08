@@ -1,4 +1,3 @@
-```markdown
 +++
 author = "Eivind Halmøy Wolden"
 title = "Cabin Chilli"
@@ -72,4 +71,3 @@ Before serving, mix in **juice from half a lemon**, **1 chopped paprika**, and a
 
 ## Notes:
 Serve hot. Store leftovers in the fridge for up to 3 days.
-```

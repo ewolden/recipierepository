@@ -1,4 +1,3 @@
-```markdown
 +++
 author = "Eivind Halmøy Wolden"
 title = "Fish Balls in White Sauce"
@@ -60,4 +59,3 @@ Boil **800 g potatoes** until tender. Peel and cube **800 g carrots**; cook in l
 
 ## Notes:
 This dish can be refrigerated for up to 2 days. Reheat gently before serving.
-```
