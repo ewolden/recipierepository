@@ -38,18 +38,21 @@ Vinegar | ½ tsp |
 ### Method for Kransekake
 
 #### Step 1
-Roast **500 g almonds** twice. Let cool. Mix cooled **almonds**, **500 g sugar**, and **3 whipped egg whites** in a bowl. Keep mixture warm.
+Grind **500 g almonds**-
 
 #### Step 2
-Rest dough overnight.
+Roast **500 g ground almonds** twice. Let cool. Mix cooled **almonds**, **500 g sugar**, and **3 whipped egg whites** in a bowl. Keep mixture warm.
 
 #### Step 3
-Shape dough into finger-sized pieces. Let sit slightly.
+Rest dough overnight.
 
 #### Step 4
-Bake at **180°C** for **15-20 mins**. Cool in forms.
+Shape dough into finger-sized pieces. Let sit slightly.
 
 #### Step 5
+Bake at **180°C** for **15-20 mins**. Cool in forms.
+
+#### Step 6
 Mix **sugar** with **egg white** and **½ tsp vinegar** for icing.
 
 ## Notes
