@@ -39,7 +39,7 @@ Ingredient | Quantity | How
 Dark chocolate | 300 g | chopped
 Granulated sugar | ¾ cup (150 g) |
 Dark brown sugar | ¼ cup (50 g) | 
-Unsalted butter | ½ cup (113 g) | sliced into tbsp
+Butter | ½ cup (113 g) | sliced into tbsp
 Large eggs | 3 | room temp
 All-purpose flour | ⅔ cup (87 g) |
 Fine sea salt or kosher salt | ½ tsp |
@@ -50,7 +50,7 @@ Chocolate fudge | 2 tbsp |
 ### Method for Coffee Ice Cream Cake
 #### Brownie Preparation
 1. **Preheat oven to 190°C**. Line and grease an 8-inch round cake pan.
-2. Melt **10 oz dark chocolate**, **¾ cup granulated sugar**, and **½ cup unsalted butter** using a double boiler. Cool slightly.
+2. Melt **10 oz dark chocolate**, **¾ cup granulated sugar**, **¼ cup Dark brown sugar**, and **½ cup unsalted butter** using a double boiler. Cool slightly.
 3. Whisk in **3 large eggs**, one at a time.
 4. Add **⅔ cup all-purpose flour** and **½ tsp salt**. Fold until combined.
 5. Bake for **20-25 minutes**. Cool on a wire rack.
