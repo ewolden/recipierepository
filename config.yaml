@@ -1,7 +1,7 @@
 baseurl: https://food.ehw.no
 languageCode: en-gb
 theme: hugo-theme-stack
-paginate: 5
+pagination.pagerSize: 5
 title: Recipe repository
 
 languages:
